@@ -1,0 +1,5 @@
+{
+  "name": "Course Viewer",
+  "description": "An interactive and beautiful front-end for viewing educational courses. It features elegant content presentation, persistent progress tracking, and interactive quizzes with AI-powered validation for open-ended questions.",
+  "requestFramePermissions": []
+}
